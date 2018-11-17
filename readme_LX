@@ -1,0 +1,1 @@
+python main.py --phase guide --dataset summer2winter --batch_size 1 --direction a2b --guide_img guide.jpg --result_dir ret --img_h 1080 --img_w 1920
